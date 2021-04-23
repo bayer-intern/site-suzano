@@ -1,0 +1,16 @@
+nav{
+    background-color:cornflowerblue;
+    height: 70px;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    background-image: url("https://www.suzano.sp.gov.br/web/wp-content/uploads/2017/12/geral-suzano-700x396.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: crimson;
+    height: 400px;
+}
